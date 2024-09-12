@@ -1,0 +1,30 @@
+/* src/WeatherForm.css */
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #3589d8;
+    border-radius: 10px;
+    background: rgb(34, 193, 195);
+    width: 70%;
+    max-width: 300px;
+    color: rgb(63,34,195);
+}
+
+button {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    color: rgb(63,34,195);
+   
+    cursor: pointer;
+    margin-left: 10px;
+    
+}
+
+button:hover {
+    background: rgba(34, 192, 195, 0.492);
+}
